@@ -1,0 +1,186 @@
+*{
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+/**
+font-family: 'Cabin', sans-serif;
+font-family: 'Cabin Sketch', cursive;
+**/
+.fondoIndex{    
+    width: 100%;
+    height: 100vh;
+    background-image: url("../img/fondo.png");
+    background-position: center;
+    background-size: 100%;
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    position: absolute; 
+}
+header
+
+.inda2{ 
+    color: red;
+    font-family: 'Cabin', sans-serif;
+    font-size: 60px;
+    text-decoration: none;
+    position: relative;
+    left: 20px;
+    top: 15px;
+}
+.index-1{
+    color: red;
+    font-family: 'Cabin', sans-serif;
+    font-size: 60px;
+    text-decoration: none;
+    position: relative;
+    left: 20px;
+    top: 15px;
+}
+.menu-1 a{
+    color: white;
+    font-family: 'Cabin', sans-serif;
+    font-size: 20px;
+    text-decoration: none; 
+}
+nav ul li a{
+    color: black;
+    font-family: 'Cabin', sans-serif;
+    font-size: 20px;
+    text-decoration: none;
+    margin-left: 20px;
+}
+main
+.img1{
+    width: 20%;
+    height: 25vh;
+    background-position: center;
+    background-size: 100%;
+    border-radius: 30px 30px 30px 30px;
+}
+.img2{
+    width: 20%;
+    height: 25vh;
+    background-position: center;
+    background-size: 100%;
+    border-radius: 30px 30px 30px 30px;
+}
+.img3{
+    width: 20%;
+    height: 25vh;
+    background-position: center;
+    background-size: 100%;
+    border-radius: 30px 30px 30px 30px;
+}
+.img4{
+    width: 20%;
+    height: 25vh;
+    background-position: center;
+    background-size: 100%;
+    border-radius: 30px 30px 30px 30px;
+}
+.img5{
+    width: 20%;
+    height: 25vh;
+    background-position: center;
+    background-size: 100%;
+    border-radius: 30px 30px 30px 30px;
+}
+.img6{
+    width: 20%;
+    height: 25vh;
+    background-position: center;
+    background-size: 100%;
+    border-radius: 30px 30px 30px 30px;
+}
+.img7{
+    width: 20%;
+    height: 25vh;
+    background-position: center;
+    background-size: 100%;
+    border-radius: 30px 30px 30px 30px;
+}
+.img8{
+    width: 20%;
+    height: 25vh;
+    background-position: center;
+    background-size: 100%;
+    border-radius: 30px 30px 30px 30px;
+}
+.img9{    
+    width: 40%;
+    height: 40vh;
+    border-radius: 30px 30px 30px 30px;
+}
+.img10{
+    width: 40%;
+    height: 40vh;
+    border-radius: 30px 30px 30px 30px;
+}
+.img11{
+    width: 40%;
+    height: 40vh;
+    border-radius: 30px 30px 30px 30px;
+}
+.topFuel{
+    color: black;
+    font-family: 'Cabin', sans-serif;
+    font-size: 60px;
+    text-align: center;
+}
+.descuento{
+    color: red;
+    font-family: 'Cabin Sketch', cursive;
+    font-size: 60px;
+}
+.descuentoBicicleta{
+    color: black;
+    font-family: 'Cabin Sketch', cursive;
+    font-size: 80px;
+}
+h2 {
+    color: white;
+    font-family: 'Cabin Sketch', cursive;
+    font-size: 60px;
+    text-align: center;
+}
+h4{
+    color: black;
+    font-family: 'Cabin', sans-serif;
+    font-size: 20px;
+}
+div p{
+    color: black;
+    font-family: 'Cabin', sans-serif;
+    font-size: 16px;
+}
+p{
+    color: black;
+    font-family: 'Cabin', sans-serif;
+    font-size: 16px;
+    text-align: justify;
+}
+
+div a{
+    color: black;
+    font-family: 'Cabin', sans-serif;
+    font-size: 16px;
+    text-decoration: none;
+}
+div button{
+    background-color: rgb(247, 210, 210);
+    font-size: 20px;
+}
+footer
+.footer1 a{
+    color: white;
+    font-family: 'Cabin', sans-serif;
+    font-size: 16px;
+    text-decoration: none;
+}
+.footer2 a{
+    color: white;
+    font-family: 'Cabin', sans-serif;
+    font-size: 16px;
+    text-decoration: none;
+}
